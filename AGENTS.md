@@ -1,4 +1,4 @@
-# Helios design docs index
+# Heliantheon design docs index
 
 This repository is an index. Do not place project design documents here.
 

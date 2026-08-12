@@ -1,6 +1,6 @@
-# Helios design docs
+# Heliantheon design docs
 
-This repository is the index for design documents across the Helios projects. The documents themselves stay beside the code they describe, under each repository's `docs/` directory.
+This repository is the index for design documents across Heliantheon projects. The documents themselves stay beside the code they describe, under each repository's `docs/` directory.
 
 ## Aegis
 
@@ -27,9 +27,12 @@ This repository is the index for design documents across the Helios projects. Th
 - [Hermes](https://github.com/heliantheon/hermes)
 - [Ambrosia](https://github.com/heliantheon/ambrosia)
 - [Chaos](https://github.com/heliantheon/chaos)
+- [Atlas](https://github.com/heliantheon/atlas)
+- [Pallas](https://github.com/heliantheon/pallas)
+- [Zwei](https://github.com/heliantheon/zwei)
 - [Proto](https://github.com/heliantheon/proto)
 - [Common](https://github.com/heliantheon/common)
 - [Aegis Go](https://github.com/heliantheon/aegis-go)
-- [Helios integration](https://github.com/heliantheon/helios)
+- [Aegis TypeScript](https://github.com/heliantheon/aegis-ts)
 
 When a design changes, update the owning repository first and adjust this index in the same change set.
