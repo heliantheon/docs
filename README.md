@@ -30,7 +30,6 @@ This repository is the index for design documents across Heliantheon projects. T
 - [Atlas](https://github.com/heliantheon/atlas)
 - [Pallas](https://github.com/heliantheon/pallas)
 - [Zwei](https://github.com/heliantheon/zwei)
-- [Proto](https://github.com/heliantheon/proto)
 - [Common](https://github.com/heliantheon/common)
 - [Aegis Go](https://github.com/heliantheon/aegis-go)
 - [Aegis TypeScript](https://github.com/heliantheon/aegis-ts)
